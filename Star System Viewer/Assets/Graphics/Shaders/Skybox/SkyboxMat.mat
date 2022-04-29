@@ -55,7 +55,7 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Star_Base_Intensity: 1.8
-    - _Star_Density: 10
+    - _Star_Density: 30
     - _Star_Sparkle_Intensity: 1
     - _Star_Twinkle_Intensity: 3
     - _Star_Visibility: 1
@@ -69,6 +69,6 @@ Material:
     - _StarColour2: {r: 1, g: 0, b: 0, a: 0}
     - _StarColour3: {r: 1, g: 0.9250659, b: 0, a: 0}
     - _StarColour4: {r: 0, g: 0.9042525, b: 1, a: 0}
-    - _Star_Twinkle_Colour: {r: 1, g: 1, b: 1, a: 0}
+    - _Star_Twinkle_Colour: {r: 0.51320755, g: 0.7495146, b: 1, a: 0}
     - _SunDirection: {r: 3, g: 3, b: 3, a: 0}
   m_BuildTextureStacks: []
